@@ -1,0 +1,20 @@
+{
+  "name": "com.waterkat.tween",
+  "version": "0.1.0",
+  "displayName": "WaterKat Tweening",
+  "description": "This package will allow you to quickly tween animate object in unity",
+  "unity": "2021.1",
+  "dependencies": {
+
+  },
+  "enableLockFile": true,
+  "resolutionStrategy": "highest",
+  "type": "library",
+  "author": 
+  {
+    "name": "Jacob Vallecillo",
+    "email": "waterkatgames@gmail.com",
+    "url": "waterkatgames.com"
+  }
+
+}
